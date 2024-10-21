@@ -68,9 +68,9 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [ ]    | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                   |       |
 |    [ ]    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                        |       |
 |    [ ]    | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                   |       |
-|    [ ]    | [Alien Dictionary (Premium)](https://leetcode.com/problems/alien-dictionary/)                    |       |
-|    [ ]    | [Graph Valid Tree (Premium)](https://leetcode.com/problems/graph-valid-tree/)                    |       |
-|    [ ]    | [Number of Connected Components in an Undirected Graph (Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |       |
+|    [ ]    | [Alien Dictionary (Premium)](https://www.lintcode.com/problem/892/)                    |       |
+|    [ ]    | [Graph Valid Tree (Premium)](https://lintcode.com/problem/178/)                    |       |
+|    [ ]    | [Number of Connected Components in an Undirected Graph (Premium)](https://www.lintcode.com/problem/3651/) |       |
 
 ## Interval
 
@@ -79,8 +79,8 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [ ]    | [Insert Interval](https://leetcode.com/problems/insert-interval/)       |       |
 |    [ ]    | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)       |       |
 |    [ ]    | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |       |
-|    [ ]    | [Meeting Rooms (Premium)](https://leetcode.com/problems/meeting-rooms/)   |       |
-|    [ ]    | [Meeting Rooms II (Premium)](https://leetcode.com/problems/meeting-rooms-ii/) |       |
+|    [ ]    | [Meeting Rooms (Premium)](https://www.lintcode.com/problem/920/)   |       |
+|    [ ]    | [Meeting Rooms II (Premium)](https://www.lintcode.com/problem/919/) |       |
 
 ## Linked List
 
@@ -115,7 +115,7 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [ ]    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                |       |
 |    [ ]    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)          |       |
 |    [ ]    | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)             |       |
-|    [ ]    | [Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/)       |       |
+|    [ ]    | [Encode and Decode Strings (Premium)](https://www.lintcode.com/problem/659/)       |       |
 
 ## Tree
 
