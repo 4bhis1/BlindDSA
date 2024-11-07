@@ -24,9 +24,9 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [X]    | [Two Sum](https://leetcode.com/problems/two-sum/)                |             hash the values and make the difference with target              |
 |    [X]    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    | get the min value from left and store the maximum result between difference  |
 |    [X]    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)          |                                                                             |
-|    [ ]    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |                                                                             |
-|    [ ]    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)           |                                                                             |
-|    [ ]    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)       |                                                                             |
+|    [X]    | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)     |      task two array s and hold the product from both side                                                                       |
+|    [X]    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)           |                     take two variables and and compare them with currentSum and current value                                                                                                  |
+|    []    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)       |                                   |
 |    [ ]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                                                                             |
 |    [ ]    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)    |                                                                             |
 |    [ ]    | [3Sum](https://leetcode.com/problems/3sum/)                 |                                                                             |
