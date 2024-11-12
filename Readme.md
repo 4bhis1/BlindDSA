@@ -26,7 +26,7 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [X]    |                   [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                   |                                                                              |
 |    [X]    |         [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)         |             task two array s and hold the product from both side             |
 |    [X]    |                     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                     |  take two variables and and compare them with currentSum and current value   |
-|    []     |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |                                                                              |
+|    [ ]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |                                                                              |
 |    [ ]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                                                                              |
 |    [ ]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |                                                                              |
 |    [ ]    |                                 [3Sum](https://leetcode.com/problems/3sum/)                                 |                                                                              |
@@ -35,19 +35,19 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 
 ## Dynamic Programming
 
-| Completed |                                             Problem                                             | Notes |
-| :-------: | :---------------------------------------------------------------------------------------------: | :---: |
-|    [X]    |                [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                |  imilar to fibonnaci     |
-|    [ ]    |                    [Coin Change](https://leetcode.com/problems/coin-change/)                    |       |
-|    [ ]    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |       |
-|    [ ]    |     [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)     |       |
-|    [ ]    |                     [Word Break](https://leetcode.com/problems/word-break/)                     |       |
-|    [ ]    |                [Combination Sum](https://leetcode.com/problems/combination-sum/)                |       |
-|    [ ]    |                   [House Robber](https://leetcode.com/problems/house-robber/)                   |       |
-|    [ ]    |                [House Robber II](https://leetcode.com/problems/house-robber-ii/)                |       |
-|    [ ]    |                    [Decode Ways](https://leetcode.com/problems/decode-ways/)                    |       |
-|    [ ]    |                   [Unique Paths](https://leetcode.com/problems/unique-paths/)                   |       |
-|    [ ]    |                      [Jump Game](https://leetcode.com/problems/jump-game/)                      |       |
+| Completed |                                             Problem                                             |                                       Notes                                        |
+| :-------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+|    [X]    |                [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                |                                similar to fibonnaci                                |
+|    [X]    |                    [Coin Change](https://leetcode.com/problems/coin-change/)                    | here minCount will get the possible min value at particular amount from coin array |
+|    [ ]    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |                                                                                    |
+|    [ ]    |     [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)     |                                                                                    |
+|    [ ]    |                     [Word Break](https://leetcode.com/problems/word-break/)                     |                                                                                    |
+|    [X]    |                [Combination Sum](https://leetcode.com/problems/combination-sum/)                |                          backtracking (my way or highway)                          |
+|    [ ]    |                   [House Robber](https://leetcode.com/problems/house-robber/)                   |                                                                                    |
+|    [ ]    |                [House Robber II](https://leetcode.com/problems/house-robber-ii/)                |                                                                                    |
+|    [ ]    |                    [Decode Ways](https://leetcode.com/problems/decode-ways/)                    |                                                                                    |
+|    [ ]    |                   [Unique Paths](https://leetcode.com/problems/unique-paths/)                   |                                                                                    |
+|    [ ]    |                      [Jump Game](https://leetcode.com/problems/jump-game/)                      |                                                                                    |
 
 ## Graph
 
