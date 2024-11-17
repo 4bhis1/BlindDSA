@@ -26,11 +26,11 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [X]    |                   [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                   |                                                                              |
 |    [X]    |         [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)         |             task two array s and hold the product from both side             |
 |    [X]    |                     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                     |  take two variables and and compare them with currentSum and current value   |
-|    [ ]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |                                                                              |
-|    [ ]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                                                                              |
-|    [ ]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |                                                                              |
+|    [ ]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |         take two pointers from left and write and if the value is 0 make left and right 0                                                                   |
+|    [X]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  biinary seach                                                                            |
+|    [X]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |      binary search                                                                        |
 |    [ ]    |                                 [3Sum](https://leetcode.com/problems/3sum/)                                 |                                                                              |
-|    [ ]    |            [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)            |                                                                              |
+|    [X]    |            [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)            |                                                                              | left and right pointer and find the  max with index
 |    [X]    |                  [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                  | find largest from L->R and R->L, and fetch the difference with the min value |
 
 ## Dynamic Programming
@@ -71,6 +71,14 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [ ]    | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |       |
 |    [ ]    |           [Meeting Rooms (Premium)](https://www.lintcode.com/problem/920/)            |       |
 |    [ ]    |          [Meeting Rooms II (Premium)](https://www.lintcode.com/problem/919/)          |       |
+
+## Conversion
+
+| Completed |                                        Problem                                        | Notes |
+| :-------: | :-----------------------------------------------------------------------------------: | :---: |
+|    [X]    |           [Integer to roman](https://leetcode.com/problems/integer-to-roman/description/)           |       |
+|    [ ]    |           [Integer to words](https://leetcode.com/problems/merge-intervals/)           |       |
+
 
 ## Linked List
 
