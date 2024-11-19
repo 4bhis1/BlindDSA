@@ -26,7 +26,7 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [X]    |                   [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                   |                                                                              |
 |    [X]    |         [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)         |             task two array s and hold the product from both side             |
 |    [X]    |                     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                     |  take two variables and and compare them with currentSum and current value   |
-|    [ ]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |         take two pointers from left and write and if the value is 0 make left and right 0                                                                   |
+|    [X]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |         take two pointers from left and write and if the value is 0 make left and right 0                                                                   |
 |    [X]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  biinary seach                                                                            |
 |    [X]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |      binary search                                                                        |
 |    [ ]    |                                 [3Sum](https://leetcode.com/problems/3sum/)                                 |                                                                              |
@@ -104,13 +104,13 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 
 | Completed |                                                             Problem                                                             | Notes |
 | :-------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---: |
-|    [ ]    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |       |
+|    [X]    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |       |
 |    [ ]    |        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        |       |
 |    [ ]    |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                       |       |
-|    [ ]    |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |       |
-|    [ ]    |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |       |
-|    [ ]    |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |       |
-|    [ ]    |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |       |
+|    [X]    |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |       |
+|    [X]    |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 | save the array of character in object as a key      |
+|    [X]    |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |       |
+|    [X]    |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |       |
 |    [ ]    |                  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                  |       |
 |    [ ]    |                         [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                         |       |
 |    [ ]    |                          [Encode and Decode Strings (Premium)](https://www.lintcode.com/problem/659/)                           |       |
