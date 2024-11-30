@@ -7,6 +7,7 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 - [Arrays](#arrays)
 - [Binary](#binary)
 - [Dynamic Programming](#dynamic-programming)
+- [Stack](#stack)
 - [Graph](#graph)
 - [Interval](#interval)
 - [Linked List](#linked-list)
@@ -27,10 +28,10 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [X]    |         [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)         |             task two array s and hold the product from both side             |
 |    [X]    |                     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                     |  take two variables and and compare them with currentSum and current value   |
 |    [ ]    |             [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             |                                                                              |
-|    [ ]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                                                                              |
-|    [ ]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |                                                                              |
-|    [ ]    |                                 [3Sum](https://leetcode.com/problems/3sum/)                                 |                                                                              |
-|    [ ]    |            [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)            |                                                                              |
+|    [X]    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |                                                                              |
+|    [X]    |       [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)       |                                                                              |
+|    [X]    |                                 [3Sum](https://leetcode.com/problems/3sum/)                                 |                                                                              |
+|    [X]    |            [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)            |                                                                              |
 |    [X]    |                  [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                  | find largest from L->R and R->L, and fetch the difference with the min value |
 
 ## Dynamic Programming
@@ -39,8 +40,8 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 | :-------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |    [X]    |                [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                |                                similar to fibonnaci                                |
 |    [X]    |                    [Coin Change](https://leetcode.com/problems/coin-change/)                    | here minCount will get the possible min value at particular amount from coin array |
-|    [ ]    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |                                                                                    |
-|    [ ]    |     [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)     |                                                                                    |
+|    [X]    | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |                                                                                    |
+|    [X]    |     [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)     |                                                                                    |
 |    [ ]    |                     [Word Break](https://leetcode.com/problems/word-break/)                     |                                                                                    |
 |    [X]    |                [Combination Sum](https://leetcode.com/problems/combination-sum/)                |                          backtracking (my way or highway)                          |
 |    [ ]    |                   [House Robber](https://leetcode.com/problems/house-robber/)                   |                                                                                    |
@@ -48,6 +49,16 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 |    [ ]    |                    [Decode Ways](https://leetcode.com/problems/decode-ways/)                    |                                                                                    |
 |    [ ]    |                   [Unique Paths](https://leetcode.com/problems/unique-paths/)                   |                                                                                    |
 |    [ ]    |                      [Jump Game](https://leetcode.com/problems/jump-game/)                      |                                                                                    |
+
+## Stack
+
+| Completed |                                                  Problem                                                  | Notes |
+| :-------: | :-------------------------------------------------------------------------------------------------------: | :---: |
+|    [ ]    |                         [LRU Cache](https://leetcode.com/problems/clone-graph/)                         |       |
+|    [ ]    |                     [Smallest element from left](https://leetcode.com/problems/course-schedule/)                     |       |
+|    [ ]    |         [Greatest element from left](https://leetcode.com/problems/pacific-atlantic-water-flow/)         |       |
+|    [ ]    |                   [Rain Tappping water](https://leetcode.com/problems/number-of-islands/)                   |       |
+|    [ ]    |        [Asteroid collision](https://leetcode.com/problems/longest-consecutive-sequence/)        |       |
 
 ## Graph
 
@@ -96,15 +107,15 @@ This is a curated list of LeetCode problems to track your progress in mastering 
 
 | Completed |                                                             Problem                                                             | Notes |
 | :-------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---: |
-|    [ ]    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |       |
-|    [ ]    |        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        |       |
-|    [ ]    |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                       |       |
-|    [ ]    |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |       |
-|    [ ]    |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |       |
-|    [ ]    |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |       |
-|    [ ]    |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |       |
-|    [ ]    |                  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                  |       |
-|    [ ]    |                         [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                         |       |
+|    [X]    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |       |
+|    [X]    |        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        |       |
+|    [X]    |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                       |       |
+|    [X]    |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |       |
+|    [X]    |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |       |
+|    [X]    |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |       |
+|    [X]    |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |       |
+|    [X]    |                  [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                  |       |
+|    [X]    |                         [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                         |       |
 |    [ ]    |                          [Encode and Decode Strings (Premium)](https://www.lintcode.com/problem/659/)                           |       |
 
 ## Tree
